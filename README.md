@@ -1,1 +1,1 @@
-This is a blank react vite with MUI for future use
+Book tracking app with an AI integrated recommendation section.
