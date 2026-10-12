@@ -1,1 +1,6 @@
-This is a blank react vite with MUI for future use
+This is a book tracking AI recommendation app
+
+Should use:
+Google Book API
+Google Gemini
+MUI
